@@ -104,7 +104,7 @@ h3 {
     flex-direction: column;
     text-align: center;
     background-size: cover;
-    background-image: url("Imagens/two-men-relaxing-fishing.png");
+    background-image: url("/Imagens/two-men-relaxing-fishing.png");
     background-position: center;
     justify-content: end;
 }
@@ -231,7 +231,7 @@ h3 {
 }
 
 #imagens-do-barco {
-    background-image: url(Imagens/Personaliza/barco_none.png);
+    background-image: url(/Imagens/Personaliza/barco_none.png);
     background-size: cover;
     background-position: center;
     justify-content: center;
